@@ -16,7 +16,7 @@ def speak_to_grandma
 end
 
 def speak_to_grandma("Hi Nana, how are you?")
-speak_to_grandma == "Hi Nana, how are you?"
+if speak_to_grandma == "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
