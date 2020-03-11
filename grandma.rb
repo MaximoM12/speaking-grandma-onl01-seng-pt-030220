@@ -16,12 +16,10 @@
 
 def speak_to_grandma(sayhi)
 if sayhi == "Hi Nana, how are you?"
-   "HUH?! SPEAK UP, SONNY!"
+  puts "HUH?! SPEAK UP, SONNY!"
 elsif sayhi == "I LOVE YOU GRANDMA!"
-   "I LOVE YOU TOO PUMPKIN!"
-   elsif sayhi == "WHAT"
-   "HUH?! SPEAK UP, SONNY!"
+  puts "I LOVE YOU TOO PUMPKIN!"
 else 
-   "NO, NOT SINCE 1938!"
+  "NO, NOT SINCE 1938!"
  end  
 end  
