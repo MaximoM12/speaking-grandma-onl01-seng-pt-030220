@@ -12,8 +12,9 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-speak_to_grandma = 'HUH?! SPEAK UP, SONNY!'
-say_hi_to_grandma == "Hi Nana, how are you?"
+def speak_to_grandma
+speak_to_grandma = "Hi Nana, how are you?"
+end
 
 if speak_to_grandma == "Hi Nana, how are you?"
 
