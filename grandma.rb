@@ -19,8 +19,6 @@ if sayhi == "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif sayhi == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-elsif sayhi == "WHAT"
-puts  "NO, NOT SINCE 1938!"
 else 
   puts "NO, NOT SINCE 1938!"
  end  
