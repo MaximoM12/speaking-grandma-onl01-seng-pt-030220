@@ -14,7 +14,7 @@
 
 speak_to_grandma = 'HUH?! SPEAK UP, SONNY!'
 
-if speak_to_grandma(sayhi) == "Hi Nana, how are you?"
+if speak_to_grandma(sayhi)
   say_hi == "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif == "I LOVE YOU GRANDMA!"
