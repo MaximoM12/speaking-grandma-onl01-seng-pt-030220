@@ -16,7 +16,7 @@ speak_to_grandma = 'HUH?! SPEAK UP, SONNY!'
 
 if speak_to_grandma == "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
-elsif == ""
-  
+elsif == "I LOVE YOU GRANDMA!"
+  puts 
 end  
   
