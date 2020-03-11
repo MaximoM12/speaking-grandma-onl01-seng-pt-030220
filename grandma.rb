@@ -16,9 +16,9 @@
 
 def speak_to_grandma(sayhi)
 if sayhi == "Hi Nana, how are you?"
-  puts "HUH?! SPEAK UP, SONNY!"
+   "HUH?! SPEAK UP, SONNY!"
 elsif sayhi == "I LOVE YOU GRANDMA!"
-  puts "I LOVE YOU TOO PUMPKIN!"
+   "I LOVE YOU TOO PUMPKIN!"
 else 
   "NO, NOT SINCE 1938!"
  end  
