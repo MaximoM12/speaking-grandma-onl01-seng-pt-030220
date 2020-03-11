@@ -19,7 +19,7 @@ if sayhi == "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
 elsif sayhi == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-else sayhi == "HI NANA, HOW ARE YOU?"
+else == "HI NANA, HOW ARE YOU?"
   puts "NO, NOT SINCE 1938!"
  end  
 end  
