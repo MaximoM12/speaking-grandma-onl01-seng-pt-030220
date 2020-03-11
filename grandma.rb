@@ -16,6 +16,7 @@ speak_to_grandma = 'Hi Nana, how are you?'
 
 if speak_to_grandma = "Hi Nana, how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
+else
   
 end  
   
