@@ -20,7 +20,7 @@ if sayhi == "Hi Nana, how are you?"
 elsif sayhi == "I LOVE YOU GRANDMA!"
    "I LOVE YOU TOO PUMPKIN!"
    elsif sayhi == "WHAT"
-   
+   "HUH?! SPEAK UP, SONNY!"
 else 
    "NO, NOT SINCE 1938!"
  end  
