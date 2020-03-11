@@ -19,7 +19,8 @@ if sayhi == "Hi Nana, how are you?"
    "HUH?! SPEAK UP, SONNY!"
 elsif sayhi == "I LOVE YOU GRANDMA!"
    "I LOVE YOU TOO PUMPKIN!"
-
+elsif sayhi.upcase == "Hi!"
+   "HUH?! SPEAK UP, SONNY!"
 else 
   "NO, NOT SINCE 1938!"
  end  
