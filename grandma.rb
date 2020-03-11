@@ -13,7 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-puts "Hi Nana, how are you?"
 end
 
 if speak_to_grandma == "Hi Nana, how are you?"
